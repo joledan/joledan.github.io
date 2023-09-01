@@ -50,6 +50,9 @@ author:
 #  linkedin: 
 # Navbar page list
 nav:
+  - title: cv
+    url: /cv
+
   - title: projects
     url: /projects
 

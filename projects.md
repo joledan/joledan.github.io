@@ -8,7 +8,7 @@ permalink: /projects
 coming soon... i promise!
 --->
 
-A collection of projects I've worked on with reflections:
+A collection of professional and personal projects I've worked on with reflections. I plan on filling this out with more data analysis, visualization, and writing pieces. 
 
 {% for post in site.posts %}
   ---

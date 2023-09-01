@@ -12,8 +12,7 @@ title: Home
     height="200"
   />   
   <p>
-  I use data to support economic development policy and research, with a curiosity in data practices, novel data sets, and visualizations. I've worked on projects related to trade, migration, education, and conflict. 
-  I do most of my work in R and STATA. 
+  I use data to support economic development policy and research, with a curiosity in data practices, novel data sets, and visualizations. I've worked on projects related to trade, migration, education, and conflict. I do most of my work in R and STATA. 
   </p>
   <br>
   <br>
@@ -25,10 +24,11 @@ I am a consultant at the Development Research Group of the World Bank. I've cont
 ### previously --- dati
 I was a research specialist at the Empirical Studies of Conflict project at the Princeton School of Public and International Affairs, where I worked on projects related to conflict and COVID-19 misinformation. 
 
-I have a M.A. in Economics (2019) focusing on Development Studies, and a B.A. in Economics and Geography (2018) from McGill University. I am trained in data analysis, econometrics, and GIS. I was born in the Philippines and raised in four countries before settling in Canada.
+I have a M.A. in Economics (2019) focusing on Development Studies, and a B.A. in Economics and Geography (2018) from McGill University. I am trained in data analysis, econometrics, and GIS. I was born in the Philippines and raised in four countries before settling in Canada. 
 
-Outside of work I enjoy reading books and The Economist, daydreaming travel plans, perfecting my capsule wardrobe, and cycling to cafés.
+Outside of work I enjoy reading books and The Economist, keeping up my Tagalog language skills, daydreaming travel plans, perfecting my capsule wardrobe, and cycling to cafés.
 
+### next --- susunod
 
 I am currently focusing on:
 * Practicing writing, leaning towards a journalistic style
