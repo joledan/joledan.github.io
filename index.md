@@ -8,8 +8,6 @@ title: Home
   <p>
   I use data to support economic development policy and research, with a curiosity in data practices, novel data sets, and visualizations. I've worked on projects related to trade, migration, education, and conflict. I do most of my work in R and STATA. 
   </p>
-  <br>
-  <br>
 </div>
 
 ### currently
