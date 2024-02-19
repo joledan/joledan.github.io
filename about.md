@@ -14,7 +14,7 @@ I have a MA in Economics (2019), focusing on Development Studies, and a BA in Ec
 Across my past and present work, one thing remains certain: a deep interest in data analysis for economic development and communicating findings through simple and effective visualizations and accessible writing. 
 
 Outside of work, I am currently focusing on:
-1. Practicing writing, leaning towards a journalistic style 
+1. Practicing writing, focusing on communicating to broader audiences
 2. Personal data projects
 3. Making a career outside of academia (it’s all I’ve known!)
 
