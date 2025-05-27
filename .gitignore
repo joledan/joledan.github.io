@@ -41,3 +41,6 @@ validation-report.json
 
 # Folders to ignore
 node_modules
+
+# assets
+assets/me-3712x3712.jpeg

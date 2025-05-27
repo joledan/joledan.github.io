@@ -6,22 +6,23 @@ title: Home
 # hello --- kamusta
 <div class="profile"> 
   <p>
-  I use data to support economic development policy and research, with a curiosity in data practices, novel data sets, and visualizations. I've worked on projects related to trade, migration, education, and conflict. I do most of my work in R and STATA. 
+  I use data to support economic development policy and research, with a curiosity in data practices, novel data sets, and visualizations. I've worked on projects related to trade, migration, climate, education, and conflict. I do most of my work in R (tidyverse, ggplot2, sf for geospatial tasks) and Python (pandas). 
   </p>
 </div>
 
 ### currently
-I am a consultant at the Development Research Group of the World Bank. I've contributed to projects on (de-)globalization, global COVID-19 vaccine supply, conflict and gender in India, and trade barriers in Latin America.  
+I am a data investigator at Global Witness, leading and supporting data-driven projects related to forests, finance, and supply chains.
 
 ### previously
+I was a consultant at the Development Research Group of the World Bank. I contributed to projects on (de-)globalization, global COVID-19 vaccine supply, conflict and gender in India, and trade barriers in Latin America.  
+
 I was a research specialist at the Empirical Studies of Conflict project at the Princeton School of Public and International Affairs, where I worked on projects related to conflict and COVID-19 misinformation. 
 
-I have a M.A. in Economics (2019) focusing on Development Studies, and a B.A. in Economics and Geography (2018) from McGill University. I am trained in data analysis, econometrics, and GIS. I was born in the Philippines and raised in four countries before settling in Canada. 
+I have a M.A. in Economics (2019) focusing on Development Studies, and a B.A. in Economics and Geography (2018) from McGill University. I am trained in data analysis, econometrics, and GIS. I was born in the Philippines and raised in four countries before settling in Canada.  I am currently based in the UK. 
 
 ### next
 
 I am currently focusing on:
-* Practicing writing, specifically communicating to broader audiences
 * Making a portfolio of <a href="https://joledan.github.io/projects">data projects</a>
 * Navigating a career in "data for development" outside of academia (it’s all I’ve known!)
 * Maintaining my Tagalog language skills
