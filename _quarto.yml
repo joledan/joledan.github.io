@@ -3,13 +3,9 @@ project:
   output-dir: docs
 
 website:
-  title: "J"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: About
+  title: "Jan Oledan"
+  navbar: false
+
 
 format:
   html:
@@ -18,4 +14,4 @@ format:
       light: flatly
       dark: darkly
     css: styles.css
-    toc: true
+    toc: false

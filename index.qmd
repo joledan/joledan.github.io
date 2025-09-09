@@ -1,13 +1,26 @@
 ---
-title: "HELLO"
+title: "hello --- kamusta, i'm jan oledan"
 ---
 
-This is a work in progress/revamp of my site!
+Work in progress!
 
----
+I use data to support economic development policy and research, with a curiosity in data practices, novel data sets, and visualizations. I've worked on projects related to trade, migration, climate, education, and conflict. I do most of my work in R (tidyverse, ggplot2, sf) and Python (pandas). 
 
-# Projects
 
-Here are some of my featured projects:
+### currently
+I am a data investigator at Global Witness, leading and supporting data-driven projects related to forests, finance, and supply chains.
 
----
+### previously
+I was a consultant at the Development Research Group of the World Bank. I contributed to projects on globalization, COVID-19 vaccine supply, conflict and gender in India, and trade barriers in Latin America.  
+
+I was a research specialist at the Empirical Studies of Conflict project at the Princeton School of Public and International Affairs, where I worked on projects related to conflict and COVID-19 misinformation. 
+
+I have a MA in Economics (2019) focusing on Development Studies, and a BA in Economics and Geography (2018) from McGill University. I am trained in data analysis, econometrics, and GIS. I was born in the Philippines and raised in four countries before settling in Canada.  I am currently based in the UK. 
+
+### next
+
+I am currently focusing on:
+
+* Making a portfolio of data projects
+* Re-finding my spark with data
+* Maintaining my Tagalog language skills
