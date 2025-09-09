@@ -6,7 +6,6 @@ website:
   title: "Jan Oledan"
   navbar: false
 
-
 format:
   html:
     respect-user-color-scheme: true
