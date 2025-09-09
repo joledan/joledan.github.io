@@ -1,0 +1,13 @@
+---
+title: "HELLO"
+---
+
+This is a work in progress/revamp of my site!
+
+---
+
+# Projects
+
+Here are some of my featured projects:
+
+---
