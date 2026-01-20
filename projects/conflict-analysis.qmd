@@ -1,0 +1,44 @@
+---
+title: "Conflict & Development"
+---
+
+## Conflict & Development Analysis
+
+### Overview
+
+Analysis of conflict dynamics, COVID-19 misinformation, and gender dimensions in development contexts, particularly in India and South Asia.
+
+### Key Questions
+
+- What are the patterns and drivers of conflict events?
+- How does misinformation spread during public health crises?
+- What are the gender dimensions of conflict and development?
+
+### Data & Methodology
+
+**Data Sources:**
+- Conflict event databases (ACLED, UCDP)
+- Social media and news data
+- Household surveys
+- Demographic and health surveys
+
+**Methods:**
+- Event analysis and pattern detection
+- Text analysis and natural language processing
+- Spatial analysis of conflict
+- Gender-disaggregated impact analysis
+
+### Key Findings
+
+*Conflict research and policy analysis coming soon*
+
+### Tools Used
+
+- **Python**: pandas, scikit-learn, NLP libraries
+- **R**: tidyverse, spatial packages
+- **NLP**: Text processing, sentiment analysis
+- **Visualization**: Spatial mapping, network analysis, time series
+
+---
+
+[← Back to Projects](../projects.qmd)

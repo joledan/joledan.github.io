@@ -1,0 +1,43 @@
+---
+title: "Climate & Environmental Data"
+---
+
+## Climate & Environmental Data Projects
+
+### Overview
+
+Working on forest monitoring, climate impacts, and supply chain transparency projects focused on environmental sustainability and finance.
+
+### Key Questions
+
+- How can we monitor deforestation and track forest cover change?
+- What is the relationship between finance flows and environmental outcomes?
+- How transparent are supply chains for high-risk commodities?
+
+### Data & Methodology
+
+**Data Sources:**
+- Satellite imagery and forest monitoring data
+- Climate datasets (temperature, precipitation)
+- Supply chain and financial datasets
+- NGO and government environmental databases
+
+**Methods:**
+- Geospatial analysis (raster and vector data)
+- Time series analysis
+- Supply chain network analysis
+
+### Key Findings
+
+*Project insights and environmental analysis coming soon*
+
+### Tools Used
+
+- **Python**: pandas, geopandas, rasterio
+- **R**: sf (spatial), ggplot2
+- **Geospatial**: QGIS, Google Earth Engine
+- **Visualization**: Leaflet, Mapbox
+
+---
+
+[← Back to Projects](../projects.qmd)

@@ -1,2 +1,7 @@
 /.quarto/
 **/*.quarto_ipynb
+
+*/projects/*
+about.qmd
+contact.qmd
+projects.qmd

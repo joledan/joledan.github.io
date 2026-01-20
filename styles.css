@@ -1,1 +1,9 @@
 /* css styles */
+main {
+  padding-top: 2rem;
+}
+
+.hanging-indent {
+  margin-left: 2em;
+  text-indent: -2em;
+}

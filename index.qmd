@@ -1,26 +1,72 @@
 ---
-title: "hello --- kamusta, i'm jan oledan"
+title: "jan oledan"
+subtitle: "hi --- kamusta!"
 ---
 
 Work in progress!
 
-I use data to support economic development policy and research, with a curiosity in data practices, novel data sets, and visualizations. I've worked on projects related to trade, migration, climate, education, and conflict. I do most of my work in R (tidyverse, ggplot2, sf) and Python (pandas). 
 
+I create data-driven projects and stories focused on economic development and climate. 
+
+**currently:** I'm a Senior Data Investigator at [Global Witness](https://globalwitness.org/en/){target="_blank"} working on forests, finance, and supply chains. I'm based in the UK. 
+
+**previously:** I was a consultant at the [World Bank](https://www.worldbank.org/en/about/unit/unit-dec/research){target="_blank"} working on development and trade policy research, and a research specialist at [Princeton University](https://esoc.princeton.edu){target="_blank"} analyzing conflict and misinformation. 
+
+**tools:** R, Python, STATA (in a past life 😊), Datawrapper, LLMs
+
+**skills:** geospatial analysis, econometrics, causal inference, web scraping, data visualization 
+
+**background:** MA in Economics (2019) and BA in Economics and Geography (2018) from McGill University. Grew up in 6 countries. Philippine and Canadian dual citizen.
+
+**personally:** I enjoy art, culture, fashion, geography, reading, gaming, language learning
+
+**next:** 
+
+* Making a portfolio of projects
+* Trying to enjoy data again
+* Maintaining my Tagalog language skills
+
+<!-- ### personally...
+
+I'm interested in art, culture, geography, fashion, language learning, reading, gaming
 
 ### currently
-I am a data investigator at Global Witness, leading and supporting data-driven projects related to forests, finance, and supply chains.
+
+**Senior Data Investigator** | Global Witness | 2024-present
+
+- Cambridge & London, UK
+- Focus areas: forests, finance, supply chains 
+- Highlights:
+    - 1
+    - 2
+    - 3
 
 ### previously
-I was a consultant at the Development Research Group of the World Bank. I contributed to projects on globalization, COVID-19 vaccine supply, conflict and gender in India, and trade barriers in Latin America.  
 
-I was a research specialist at the Empirical Studies of Conflict project at the Princeton School of Public and International Affairs, where I worked on projects related to conflict and COVID-19 misinformation. 
+**Consultant** | World Bank, Development Research Group | 2020-2024
 
-I have a MA in Economics (2019) focusing on Development Studies, and a BA in Economics and Geography (2018) from McGill University. I am trained in data analysis, econometrics, and GIS. I was born in the Philippines and raised in four countries before settling in Canada.  I am currently based in the UK. 
+- Key projects:
+    - Test 1 Globalization
+    - Test 2 COVID-19
+    - LATAM
+    - India
+
+**Research Specialist** | Princeton University, Empirical Studies of Conflict | 2019-2020
+
+- Conflict
+- COVID-19 misinformation
+
+
+### background
+
+- MA Economics (2019) and BA Economics and Geography (2018) from McGill University
+- Skills: data analysis, econometrics, GIS, ML, AI
+- Languages: R, Python, STATA
+- Philippine and Canadian dual citizen
 
 ### next
-
-I am currently focusing on:
 
 * Making a portfolio of data projects
 * Re-finding my spark with data
 * Maintaining my Tagalog language skills
+ -->

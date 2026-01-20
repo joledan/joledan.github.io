@@ -1,5 +1,54 @@
 [
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "I work across various domains including trade, migration, climate, education, and conflict. Below are some of my featured data-driven projects.\n\n\n\n\n\nAnalyzing global trade patterns, supply chains, and the impacts of trade barriers on economic development in Latin America and beyond.\nTools: R (tidyverse, ggplot2), Trade databases\n\n\n\n\n\n\nForest monitoring, climate impacts, and supply chain transparency projects focused on environmental sustainability and finance.\nTools: Python, Geospatial analysis (sf), Climate datasets\n\n\n\n\n\n\nResearch on migration patterns, remittances, and economic development impacts across multiple countries and regions.\nTools: R, Econometric analysis, Census data\n\n\n\n\n\n\nAnalysis of conflict dynamics, COVID-19 misinformation, and gender dimensions in development contexts, particularly in India and South Asia.\nTools: Python, Statistical analysis, Event data"
+  },
+  {
+    "objectID": "projects.html#data-projects-portfolio",
+    "href": "projects.html#data-projects-portfolio",
+    "title": "Projects",
+    "section": "",
+    "text": "I work across various domains including trade, migration, climate, education, and conflict. Below are some of my featured data-driven projects.\n\n\n\n\n\nAnalyzing global trade patterns, supply chains, and the impacts of trade barriers on economic development in Latin America and beyond.\nTools: R (tidyverse, ggplot2), Trade databases\n\n\n\n\n\n\nForest monitoring, climate impacts, and supply chain transparency projects focused on environmental sustainability and finance.\nTools: Python, Geospatial analysis (sf), Climate datasets\n\n\n\n\n\n\nResearch on migration patterns, remittances, and economic development impacts across multiple countries and regions.\nTools: R, Econometric analysis, Census data\n\n\n\n\n\n\nAnalysis of conflict dynamics, COVID-19 misinformation, and gender dimensions in development contexts, particularly in India and South Asia.\nTools: Python, Statistical analysis, Event data"
+  },
+  {
+    "objectID": "projects.html#want-to-see-more",
+    "href": "projects.html#want-to-see-more",
+    "title": "Projects",
+    "section": "Want to see more?",
+    "text": "Want to see more?\nExplore individual projects above to learn more about the data, methods, and insights from each project. Feel free to contact me if you have questions or collaboration ideas!"
+  },
+  {
+    "objectID": "projects/migration-development.html",
+    "href": "projects/migration-development.html",
+    "title": "Migration & Development",
+    "section": "",
+    "text": "Research on migration patterns, remittances, and economic development impacts across multiple countries and regions.\n\n\n\n\nWhat are the patterns and drivers of migration?\nHow do remittances affect economic development in origin countries?\nWhat are the long-term developmental impacts of migration?\n\n\n\n\nData Sources: - Census data and household surveys - Remittance flow databases - Migration statistics - Economic development indicators\nMethods: - Econometric analysis of migration determinants - Gravity model specifications - Instrumental variable approaches - Household-level impact analysis\n\n\n\nMigration research and analysis coming soon\n\n\n\n\nR: tidyverse, ggplot2, econometric packages\nPython: pandas, statsmodels\nSurvey Data: Processing household surveys, imputation methods\nStatistical Methods: Regression, IV estimation, structural modeling\n\n\n← Back to Projects"
+  },
+  {
+    "objectID": "projects/migration-development.html#migration-development-research",
+    "href": "projects/migration-development.html#migration-development-research",
+    "title": "Migration & Development",
+    "section": "",
+    "text": "Research on migration patterns, remittances, and economic development impacts across multiple countries and regions.\n\n\n\n\nWhat are the patterns and drivers of migration?\nHow do remittances affect economic development in origin countries?\nWhat are the long-term developmental impacts of migration?\n\n\n\n\nData Sources: - Census data and household surveys - Remittance flow databases - Migration statistics - Economic development indicators\nMethods: - Econometric analysis of migration determinants - Gravity model specifications - Instrumental variable approaches - Household-level impact analysis\n\n\n\nMigration research and analysis coming soon\n\n\n\n\nR: tidyverse, ggplot2, econometric packages\nPython: pandas, statsmodels\nSurvey Data: Processing household surveys, imputation methods\nStatistical Methods: Regression, IV estimation, structural modeling\n\n\n← Back to Projects"
+  },
+  {
+    "objectID": "projects/climate-environment.html",
+    "href": "projects/climate-environment.html",
+    "title": "Climate & Environmental Data",
+    "section": "",
+    "text": "Working on forest monitoring, climate impacts, and supply chain transparency projects focused on environmental sustainability and finance.\n\n\n\n\nHow can we monitor deforestation and track forest cover change?\nWhat is the relationship between finance flows and environmental outcomes?\nHow transparent are supply chains for high-risk commodities?\n\n\n\n\nData Sources: - Satellite imagery and forest monitoring data - Climate datasets (temperature, precipitation) - Supply chain and financial datasets - NGO and government environmental databases\nMethods: - Geospatial analysis (raster and vector data) - Time series analysis - Supply chain network analysis\n\n\n\nProject insights and environmental analysis coming soon\n\n\n\n\nPython: pandas, geopandas, rasterio\nR: sf (spatial), ggplot2\nGeospatial: QGIS, Google Earth Engine\nVisualization: Leaflet, Mapbox\n\n\n← Back to Projects"
+  },
+  {
+    "objectID": "projects/climate-environment.html#climate-environmental-data-projects",
+    "href": "projects/climate-environment.html#climate-environmental-data-projects",
+    "title": "Climate & Environmental Data",
+    "section": "",
+    "text": "Working on forest monitoring, climate impacts, and supply chain transparency projects focused on environmental sustainability and finance.\n\n\n\n\nHow can we monitor deforestation and track forest cover change?\nWhat is the relationship between finance flows and environmental outcomes?\nHow transparent are supply chains for high-risk commodities?\n\n\n\n\nData Sources: - Satellite imagery and forest monitoring data - Climate datasets (temperature, precipitation) - Supply chain and financial datasets - NGO and government environmental databases\nMethods: - Geospatial analysis (raster and vector data) - Time series analysis - Supply chain network analysis\n\n\n\nProject insights and environmental analysis coming soon\n\n\n\n\nPython: pandas, geopandas, rasterio\nR: sf (spatial), ggplot2\nGeospatial: QGIS, Google Earth Engine\nVisualization: Leaflet, Mapbox\n\n\n← Back to Projects"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -9,8 +58,36 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "hello — kamusta, i’m jan oledan",
+    "title": "jan oledan",
     "section": "",
-    "text": "Work in progress!\nI use data to support economic development policy and research, with a curiosity in data practices, novel data sets, and visualizations. I’ve worked on projects related to trade, migration, climate, education, and conflict. I do most of my work in R (tidyverse, ggplot2, sf) and Python (pandas).\n\ncurrently\nI am a data investigator at Global Witness, leading and supporting data-driven projects related to forests, finance, and supply chains.\n\n\npreviously\nI was a consultant at the Development Research Group of the World Bank. I contributed to projects on globalization, COVID-19 vaccine supply, conflict and gender in India, and trade barriers in Latin America.\nI was a research specialist at the Empirical Studies of Conflict project at the Princeton School of Public and International Affairs, where I worked on projects related to conflict and COVID-19 misinformation.\nI have a MA in Economics (2019) focusing on Development Studies, and a BA in Economics and Geography (2018) from McGill University. I am trained in data analysis, econometrics, and GIS. I was born in the Philippines and raised in four countries before settling in Canada. I am currently based in the UK.\n\n\nnext\nI am currently focusing on:\n\nMaking a portfolio of data projects\nRe-finding my spark with data\nMaintaining my Tagalog language skills"
+    "text": "Work in progress!\nI create data-driven projects and stories focused on economic development and climate.\ncurrently: I’m a Senior Data Investigator at Global Witness working on forests, finance, and supply chains. I’m based in the UK.\npreviously: I was a consultant at the World Bank working on development and trade policy research, and a research specialist at Princeton University analyzing conflict and misinformation.\ntools: R, Python, STATA (in a past life 😊), Datawrapper, LLMs\nskills: geospatial analysis, econometrics, causal inference, web scraping, data visualization\nbackground: MA in Economics (2019) and BA in Economics and Geography (2018) from McGill University. Grew up in 6 countries. Philippine and Canadian dual citizen.\npersonally: I enjoy art, culture, fashion, geography, reading, gaming, language learning\nnext:\n\nMaking a portfolio of projects\nTrying to enjoy data again\nMaintaining my Tagalog language skills"
+  },
+  {
+    "objectID": "projects/conflict-analysis.html",
+    "href": "projects/conflict-analysis.html",
+    "title": "Conflict & Development",
+    "section": "",
+    "text": "Analysis of conflict dynamics, COVID-19 misinformation, and gender dimensions in development contexts, particularly in India and South Asia.\n\n\n\n\nWhat are the patterns and drivers of conflict events?\nHow does misinformation spread during public health crises?\nWhat are the gender dimensions of conflict and development?\n\n\n\n\nData Sources: - Conflict event databases (ACLED, UCDP) - Social media and news data - Household surveys - Demographic and health surveys\nMethods: - Event analysis and pattern detection - Text analysis and natural language processing - Spatial analysis of conflict - Gender-disaggregated impact analysis\n\n\n\nConflict research and policy analysis coming soon\n\n\n\n\nPython: pandas, scikit-learn, NLP libraries\nR: tidyverse, spatial packages\nNLP: Text processing, sentiment analysis\nVisualization: Spatial mapping, network analysis, time series\n\n\n← Back to Projects"
+  },
+  {
+    "objectID": "projects/conflict-analysis.html#conflict-development-analysis",
+    "href": "projects/conflict-analysis.html#conflict-development-analysis",
+    "title": "Conflict & Development",
+    "section": "",
+    "text": "Analysis of conflict dynamics, COVID-19 misinformation, and gender dimensions in development contexts, particularly in India and South Asia.\n\n\n\n\nWhat are the patterns and drivers of conflict events?\nHow does misinformation spread during public health crises?\nWhat are the gender dimensions of conflict and development?\n\n\n\n\nData Sources: - Conflict event databases (ACLED, UCDP) - Social media and news data - Household surveys - Demographic and health surveys\nMethods: - Event analysis and pattern detection - Text analysis and natural language processing - Spatial analysis of conflict - Gender-disaggregated impact analysis\n\n\n\nConflict research and policy analysis coming soon\n\n\n\n\nPython: pandas, scikit-learn, NLP libraries\nR: tidyverse, spatial packages\nNLP: Text processing, sentiment analysis\nVisualization: Spatial mapping, network analysis, time series\n\n\n← Back to Projects"
+  },
+  {
+    "objectID": "projects/trade-globalization.html",
+    "href": "projects/trade-globalization.html",
+    "title": "Trade & Globalization",
+    "section": "",
+    "text": "This project examines global trade patterns and the impacts of trade barriers on economic development, with a focus on Latin America.\n\n\n\n\nHow do trade barriers affect economic growth in developing regions?\nWhat are the patterns in global supply chains?\nHow has trade policy shifted post-COVID?\n\n\n\n\nData Sources: - Trade datasets (UN Comtrade, World Bank) - Trade policy databases - Country-level economic indicators\nMethods: - Descriptive trade flow analysis - Econometric regression analysis - Supply chain mapping\n\n\n\nProject insights and visualizations coming soon\n\n\n\n\nR: tidyverse, ggplot2, haven\nDatabases: Comtrade, World Bank API\nStatistical Methods: Panel regression, difference-in-differences\n\n\n← Back to Projects"
+  },
+  {
+    "objectID": "projects/trade-globalization.html#trade-globalization-analysis",
+    "href": "projects/trade-globalization.html#trade-globalization-analysis",
+    "title": "Trade & Globalization",
+    "section": "",
+    "text": "This project examines global trade patterns and the impacts of trade barriers on economic development, with a focus on Latin America.\n\n\n\n\nHow do trade barriers affect economic growth in developing regions?\nWhat are the patterns in global supply chains?\nHow has trade policy shifted post-COVID?\n\n\n\n\nData Sources: - Trade datasets (UN Comtrade, World Bank) - Trade policy databases - Country-level economic indicators\nMethods: - Descriptive trade flow analysis - Econometric regression analysis - Supply chain mapping\n\n\n\nProject insights and visualizations coming soon\n\n\n\n\nR: tidyverse, ggplot2, haven\nDatabases: Comtrade, World Bank API\nStatistical Methods: Panel regression, difference-in-differences\n\n\n← Back to Projects"
   }
 ]
