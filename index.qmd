@@ -8,19 +8,29 @@ Work in progress!
 
 I create data-driven projects and stories focused on economic development and climate. 
 
-**currently:** I'm a Senior Data Investigator at [Global Witness](https://globalwitness.org/en/){target="_blank"} working on forests, finance, and supply chains. I'm based in the UK. 
+currently:
+: I'm a Senior Data Investigator at [Global Witness](https://globalwitness.org/en/){target="_blank"} working on forests, finance, and supply chains. I'm based in the UK. 
 
-**previously:** I was a consultant at the [World Bank](https://www.worldbank.org/en/about/unit/unit-dec/research){target="_blank"} working on development and trade policy research, and a research specialist at [Princeton University](https://esoc.princeton.edu){target="_blank"} analyzing conflict and misinformation. 
+previously: 
+: I was a consultant at the [World Bank](https://www.worldbank.org/en/about/unit/unit-dec/research){target="_blank"} working on development and trade policy research, and a research specialist at [Princeton University](https://esoc.princeton.edu){target="_blank"} analyzing conflict and misinformation. 
 
-**tools:** R, Python, STATA (in a past life 😊), Datawrapper, LLMs
+<hr>
 
-**skills:** geospatial analysis, econometrics, causal inference, web scraping, data visualization 
+tools: 
+: R, Python, STATA (in a past life 😊), Datawrapper, LLMs
 
-**background:** MA in Economics (2019) and BA in Economics and Geography (2018) from McGill University. Grew up in 6 countries. Philippine and Canadian dual citizen.
+skills:
+: geospatial analysis, econometrics, causal inference, web scraping, data visualization 
 
-**personally:** I enjoy art, culture, fashion, geography, reading, gaming, language learning
+<hr>
 
-**next:** 
+background:
+: MA in Economics (2019) and BA in Economics and Geography (2018) from McGill University. Grew up in 6 countries. Philippine and Canadian dual citizen.
+
+personally:
+: I enjoy art, culture, fashion, geography, reading, gaming, language learning
+
+**next:**
 
 * Making a portfolio of projects
 * Trying to enjoy data again
