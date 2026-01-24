@@ -1,0 +1,10 @@
+---
+title: "jan oledan"
+subtitle: "hi --- kamusta!"
+---
+
+[about](/index.qmd) | [work](/work.qmd) | [fun](/fun.qmd)
+
+<hr>
+
+fun stuff! data! yay!

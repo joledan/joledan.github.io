@@ -1,9 +1,19 @@
-/* css styles */
 main {
   padding-top: 2rem;
+}
+
+body {
+  width: 100%;
+  max-width: 90%;
+  margin: 0 auto;
+  padding: 0 1rem;
 }
 
 .hanging-indent {
   margin-left: 2em;
   text-indent: -2em;
+}
+
+.work-entry {
+  white-space: nowrap;
 }

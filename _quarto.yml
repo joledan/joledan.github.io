@@ -8,12 +8,12 @@ website:
 
 format:
   html:
-    respect-user-color-scheme: true
     theme:
       light: flatly
       dark: darkly
-    css: 
-      - styles.css
-      - header.css
+    css: custom.scss    
     toc: false
+    grid:
+      body-width: 1000px
+    respect-user-color-scheme: true
     # include-before-body: header.html

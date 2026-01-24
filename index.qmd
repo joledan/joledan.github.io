@@ -3,8 +3,9 @@ title: "jan oledan"
 subtitle: "hi --- kamusta!"
 ---
 
-Work in progress!
+[about](/index.qmd) | [work](/work.qmd) | [fun](/fun.qmd)
 
+<hr>
 
 I create data-driven projects and stories focused on economic development and climate. 
 
@@ -20,7 +21,7 @@ tools:
 : R, Python, STATA (in a past life 😊), Datawrapper, LLMs
 
 skills:
-: geospatial analysis, econometrics, causal inference, web scraping, data visualization 
+: data analysis, visualization, geospatial analysis, econometrics, causal inference, web scraping
 
 <hr>
 
@@ -35,6 +36,8 @@ personally:
 * Making a portfolio of projects
 * Trying to enjoy data again
 * Maintaining my Tagalog language skills
+
+
 
 <!-- ### personally...
 

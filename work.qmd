@@ -1,0 +1,36 @@
+---
+title: "jan oledan"
+subtitle: "hi --- kamusta!"
+---
+
+[about](/index.qmd) | [work](/work.qmd) | [fun](/fun.qmd)
+
+<hr>
+
+Most of the things I've worked on since leaving the safety and structure of school/being thrown into <i>adult life</i>™️
+
+<div style="display:flex; gap:1rem; align-items:baseline;"><h5 style="margin:0;">Global Witness</h5> <span>2024 - now</span></div>
+
+Climate, environment, forests, finance, supply chains, data journalism
+
+`R` `Python` `LLMs` `Geospatial analysis` `Data visualization` `Data analysis` `QGIS` 
+
+<ul style="list-style: none; padding: 0;">
+<li style="display:flex;margin-bottom:.2rem"><span><time datetime="2025-11-25">25 nov 2025 </time></span><a href="https://globalwitness.org/en/campaigns/forests/chocolate-giants-fuel-deforestation-in-west-africas-last-rainforest/" target="_blank" style="margin-left:1.5em">Chocolate giants fuel deforestation in West Africa's last rainforest</a></li>
+<li style="display:flex;margin-bottom:.2rem"><span><time datetime="2025-10-14">14 oct 2025 </time></span><a href="https://globalwitness.org/en/campaigns/forests/banks-make-26-billion-in-a-decade-of-financing-deforesting-companies/" target="_blank" style="margin-left:1.5em">Banks make $26 billion in a decade of financing deforesting companies</a></li>
+<li style="display:flex;margin-bottom:.2rem"><span><time datetime="2025-06-11">11 jun 2025 </time></span><a href="https://globalwitness.org/en/campaigns/forests/saving-a-forest-the-size-of-austria-the-first-ten-years-of-the-eudr/" target="_blank" style="margin-left:1.5em">Saving a forest the size of Austria: The first 10 years of the EUDR</a></li>
+<li style="display:flex;margin-bottom:.2rem"><span><time datetime="2025-05-15">15 may 2025 </time></span><a href="https://globalwitness.org/en/campaigns/forests/santander-backed-major-south-american-deforester-cresud-despite-net-zero-pledge/" target="_blank" style="margin-left:1.5em">Santander backed major South American deforester Cresud despite net zero pledge</a></li>
+<li style="display:flex;margin-bottom:.2rem"><span><time datetime="2025-04-19">19 apr 2025 </time></span><a href="https://globalwitness.org/en/campaigns/forests/jaguars-vs-cows-the-biodiversity-crisis-under-jbs-shadow/" target="_blank" style="margin-left:1.5em">Jaguars vs cows: The biodiversity crisis under JBS's shadow</a></li>
+<li style="display:flex;margin-bottom:.2rem"><span><time datetime="2025-03-20">20 mar 2025 </time></span><a href="https://globalwitness.org/en/campaigns/forests/forest-destruction-the-size-of-liverpool-tied-to-uk-imports/" target="_blank" style="margin-left:1.5em">Forest destruction rivalling the size of Liverpool caused by UK imports last year</a></li>
+<li style="display:flex;margin-bottom:.2rem"><span><time datetime="2024-12-10">10 dec 2024 </time></span><a href="https://globalwitness.org/en/campaigns/forests/wall-street-banks-fuel-nyc-scale-deforestation-in-paraguays-vital-forest/" target="_blank" style="margin-left:1.5em">Wall Street banks fuel NYC-scale deforestation in Paraguay's vital forest</a></li>
+<li style="display:flex;margin-bottom:.2rem"><span><time datetime="2024-10-16">16 oct 2024 </time></span><a href="https://globalwitness.org/en/campaigns/forests/british-financiers-funnelled-over-1-billion-into-forest-risk-companies-despite-cop26-pledges/" target="_blank" style="margin-left:1.5em">British financiers funnelled over £1 billion into "forest-risk" companies despite COP26 pledges</a></li>
+<li style="display:flex;margin-bottom:.2rem"><span><time datetime="2024-10-08">08 oct 2024 </time></span><a href="https://globalwitness.org/en/campaigns/forests/the-price-of-beauty-popular-collagen-brands-drive-deforestation-and-rights-abuses-in-paraguay/" target="_blank" style="margin-left:1.5em">The price of beauty: Popular collagen brands drive deforestation and rights abuses in Paraguay</a></li>
+<li style="display:flex;margin-bottom:.2rem"><span><time datetime="2024-10-08">08 oct 2024 </time></span><a href="https://globalwitness.org/en/campaigns/forests/barclays-earned-1-7bn-from-company-tied-to-indigenous-land-invasion/" target="_blank" style="margin-left:1.5em">Barclays earned $1.7bn from company tied to Indigenous land invasion</a></li>
+</ul>
+
+
+<div style="display:flex; gap:1rem; align-items:baseline;"><h5 style="margin:0;">World Bank</h5> <span>2020 - 2024</span></div>
+
+Economic development, trade, policy, globalization, research
+
+`R` `STATA` `Geospatial analysis` `Data visualization` `Data analysis` `Econometrics` `Causal inference`

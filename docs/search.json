@@ -60,7 +60,7 @@
     "href": "index.html",
     "title": "jan oledan",
     "section": "",
-    "text": "Work in progress!\nI create data-driven projects and stories focused on economic development and climate.\n\ncurrently:\n\nI’m a Senior Data Investigator at Global Witness working on forests, finance, and supply chains. I’m based in the UK.\n\npreviously:\n\nI was a consultant at the World Bank working on development and trade policy research, and a research specialist at Princeton University analyzing conflict and misinformation.\n\n\n\n\ntools:\n\nR, Python, STATA (in a past life 😊), Datawrapper, LLMs\n\nskills:\n\ngeospatial analysis, econometrics, causal inference, web scraping, data visualization\n\n\n\n\nbackground:\n\nMA in Economics (2019) and BA in Economics and Geography (2018) from McGill University. Grew up in 6 countries. Philippine and Canadian dual citizen.\n\npersonally:\n\nI enjoy art, culture, fashion, geography, reading, gaming, language learning\n\n\nnext:\n\nMaking a portfolio of projects\nTrying to enjoy data again\nMaintaining my Tagalog language skills"
+    "text": "about | work | fun\n\nI create data-driven projects and stories focused on economic development and climate.\n\ncurrently:\n\nI’m a Senior Data Investigator at Global Witness working on forests, finance, and supply chains. I’m based in the UK.\n\npreviously:\n\nI was a consultant at the World Bank working on development and trade policy research, and a research specialist at Princeton University analyzing conflict and misinformation.\n\n\n\n\ntools:\n\nR, Python, STATA (in a past life 😊), Datawrapper, LLMs\n\nskills:\n\ndata analysis, visualization, geospatial analysis, econometrics, causal inference, web scraping\n\n\n\n\nbackground:\n\nMA in Economics (2019) and BA in Economics and Geography (2018) from McGill University. Grew up in 6 countries. Philippine and Canadian dual citizen.\n\npersonally:\n\nI enjoy art, culture, fashion, geography, reading, gaming, language learning\n\n\nnext:\n\nMaking a portfolio of projects\nTrying to enjoy data again\nMaintaining my Tagalog language skills"
   },
   {
     "objectID": "projects/conflict-analysis.html",
@@ -89,5 +89,19 @@
     "title": "Trade & Globalization",
     "section": "",
     "text": "This project examines global trade patterns and the impacts of trade barriers on economic development, with a focus on Latin America.\n\n\n\n\nHow do trade barriers affect economic growth in developing regions?\nWhat are the patterns in global supply chains?\nHow has trade policy shifted post-COVID?\n\n\n\n\nData Sources: - Trade datasets (UN Comtrade, World Bank) - Trade policy databases - Country-level economic indicators\nMethods: - Descriptive trade flow analysis - Econometric regression analysis - Supply chain mapping\n\n\n\nProject insights and visualizations coming soon\n\n\n\n\nR: tidyverse, ggplot2, haven\nDatabases: Comtrade, World Bank API\nStatistical Methods: Panel regression, difference-in-differences\n\n\n← Back to Projects"
+  },
+  {
+    "objectID": "work.html",
+    "href": "work.html",
+    "title": "jan oledan",
+    "section": "",
+    "text": "about | work | fun\n\nMost of the things I’ve worked on since leaving the safety and structure of school/being thrown into adult life™️\n\n\nGlobal Witness\n\n2024 - now\n\nClimate, environment, forests, finance, supply chains, data journalism\nR Python LLMs Geospatial analysis Data visualization Data analysis QGIS\n\n\n25 nov 2025 Chocolate giants fuel deforestation in West Africa’s last rainforest\n\n\n14 oct 2025 Banks make $26 billion in a decade of financing deforesting companies\n\n\n11 jun 2025 Saving a forest the size of Austria: The first 10 years of the EUDR\n\n\n15 may 2025 Santander backed major South American deforester Cresud despite net zero pledge\n\n\n19 apr 2025 Jaguars vs cows: The biodiversity crisis under JBS’s shadow\n\n\n20 mar 2025 Forest destruction rivalling the size of Liverpool caused by UK imports last year\n\n\n10 dec 2024 Wall Street banks fuel NYC-scale deforestation in Paraguay’s vital forest\n\n\n16 oct 2024 British financiers funnelled over £1 billion into “forest-risk” companies despite COP26 pledges\n\n\n08 oct 2024 The price of beauty: Popular collagen brands drive deforestation and rights abuses in Paraguay\n\n\n08 oct 2024 Barclays earned $1.7bn from company tied to Indigenous land invasion\n\n\n\n\nWorld Bank\n\n2020 - 2024\n\nEconomic development, trade, policy, globalization, research\nR STATA Geospatial analysis Data visualization Data analysis Econometrics Causal inference"
+  },
+  {
+    "objectID": "fun.html",
+    "href": "fun.html",
+    "title": "jan oledan",
+    "section": "",
+    "text": "about | work | fun\n\nfun stuff! data! yay!"
   }
 ]
