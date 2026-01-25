@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&display=swap');
+
+body {
+  font-family: 'Inter', sans-serif !important;
+}
+
+time {
+  font-family: 'JetBrains Mono', monospace !important;
+}
+
+main {
+  padding-top: 2rem;
+}
+
+body {
+  width: 100%;
+  max-width: 90%;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.hanging-indent {
+  margin-left: 2em;
+  text-indent: -2em;
+}
+
+.work-entry {
+  white-space: nowrap;
+}
+
+@media (min-width: 1200px) {
+  body {
+    max-width: 1100px;
+  }
+}
+
+@media (min-width: 1600px) {
+  body {
+    max-width: 1400px;
+  }
+}
+
+@media (min-width: 2000px) {
+  body {
+    max-width: 1800px;
+  }
+}

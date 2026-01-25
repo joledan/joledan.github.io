@@ -11,7 +11,7 @@ format:
     theme:
       light: flatly
       dark: darkly
-    css: custom.scss    
+    css: custom.css    
     toc: false
     grid:
       body-width: 1000px
