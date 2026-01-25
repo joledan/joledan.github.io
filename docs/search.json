@@ -1,24 +1,10 @@
 [
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "work.html",
+    "href": "work.html",
+    "title": "jan oledan",
     "section": "",
-    "text": "I work across various domains including trade, migration, climate, education, and conflict. Below are some of my featured data-driven projects.\n\n\n\n\n\nAnalyzing global trade patterns, supply chains, and the impacts of trade barriers on economic development in Latin America and beyond.\nTools: R (tidyverse, ggplot2), Trade databases\n\n\n\n\n\n\nForest monitoring, climate impacts, and supply chain transparency projects focused on environmental sustainability and finance.\nTools: Python, Geospatial analysis (sf), Climate datasets\n\n\n\n\n\n\nResearch on migration patterns, remittances, and economic development impacts across multiple countries and regions.\nTools: R, Econometric analysis, Census data\n\n\n\n\n\n\nAnalysis of conflict dynamics, COVID-19 misinformation, and gender dimensions in development contexts, particularly in India and South Asia.\nTools: Python, Statistical analysis, Event data"
-  },
-  {
-    "objectID": "projects.html#data-projects-portfolio",
-    "href": "projects.html#data-projects-portfolio",
-    "title": "Projects",
-    "section": "",
-    "text": "I work across various domains including trade, migration, climate, education, and conflict. Below are some of my featured data-driven projects.\n\n\n\n\n\nAnalyzing global trade patterns, supply chains, and the impacts of trade barriers on economic development in Latin America and beyond.\nTools: R (tidyverse, ggplot2), Trade databases\n\n\n\n\n\n\nForest monitoring, climate impacts, and supply chain transparency projects focused on environmental sustainability and finance.\nTools: Python, Geospatial analysis (sf), Climate datasets\n\n\n\n\n\n\nResearch on migration patterns, remittances, and economic development impacts across multiple countries and regions.\nTools: R, Econometric analysis, Census data\n\n\n\n\n\n\nAnalysis of conflict dynamics, COVID-19 misinformation, and gender dimensions in development contexts, particularly in India and South Asia.\nTools: Python, Statistical analysis, Event data"
-  },
-  {
-    "objectID": "projects.html#want-to-see-more",
-    "href": "projects.html#want-to-see-more",
-    "title": "Projects",
-    "section": "Want to see more?",
-    "text": "Want to see more?\nExplore individual projects above to learn more about the data, methods, and insights from each project. Feel free to contact me if you have questions or collaboration ideas!"
+    "text": "about | work | fun\n\nMost of the things I’ve worked on since leaving the safety and structure of school/being thrown into adult life™️\n\n\nGlobal Witness\n\n2024 - now\n\nClimate, environment, forests, finance, supply chains, data journalism\nR Python LLMs Geospatial analysis Data visualization Data analysis QGIS\n\n\n25 nov 2025 Chocolate giants fuel deforestation in West Africa’s last rainforest\n\n\n14 oct 2025 Banks make $26 billion in a decade of financing deforesting companies\n\n\n11 jun 2025 Saving a forest the size of Austria: The first 10 years of the EUDR\n\n\n15 may 2025 Santander backed major South American deforester Cresud despite net zero pledge\n\n\n19 apr 2025 Jaguars vs cows: The biodiversity crisis under JBS’s shadow\n\n\n20 mar 2025 Forest destruction rivalling the size of Liverpool caused by UK imports last year\n\n\n10 dec 2024 Wall Street banks fuel NYC-scale deforestation in Paraguay’s vital forest\n\n\n16 oct 2024 British financiers funnelled over £1 billion into “forest-risk” companies despite COP26 pledges\n\n\n08 oct 2024 The price of beauty: Popular collagen brands drive deforestation and rights abuses in Paraguay\n\n\n08 oct 2024 Barclays earned $1.7bn from company tied to Indigenous land invasion\n\n\n\n\nWorld Bank\n\n2020 - 2024\n\nEconomic development, trade, policy, globalization, research\nR STATA Geospatial analysis Data visualization Data analysis Econometrics Causal inference"
   },
   {
     "objectID": "projects/migration-development.html",
@@ -47,6 +33,13 @@
     "title": "Climate & Environmental Data",
     "section": "",
     "text": "Working on forest monitoring, climate impacts, and supply chain transparency projects focused on environmental sustainability and finance.\n\n\n\n\nHow can we monitor deforestation and track forest cover change?\nWhat is the relationship between finance flows and environmental outcomes?\nHow transparent are supply chains for high-risk commodities?\n\n\n\n\nData Sources: - Satellite imagery and forest monitoring data - Climate datasets (temperature, precipitation) - Supply chain and financial datasets - NGO and government environmental databases\nMethods: - Geospatial analysis (raster and vector data) - Time series analysis - Supply chain network analysis\n\n\n\nProject insights and environmental analysis coming soon\n\n\n\n\nPython: pandas, geopandas, rasterio\nR: sf (spatial), ggplot2\nGeospatial: QGIS, Google Earth Engine\nVisualization: Leaflet, Mapbox\n\n\n← Back to Projects"
+  },
+  {
+    "objectID": "fun.html",
+    "href": "fun.html",
+    "title": "jan oledan",
+    "section": "",
+    "text": "about | work | fun\n\nfun stuff! data! yay!"
   },
   {
     "objectID": "about.html",
@@ -89,19 +82,5 @@
     "title": "Trade & Globalization",
     "section": "",
     "text": "This project examines global trade patterns and the impacts of trade barriers on economic development, with a focus on Latin America.\n\n\n\n\nHow do trade barriers affect economic growth in developing regions?\nWhat are the patterns in global supply chains?\nHow has trade policy shifted post-COVID?\n\n\n\n\nData Sources: - Trade datasets (UN Comtrade, World Bank) - Trade policy databases - Country-level economic indicators\nMethods: - Descriptive trade flow analysis - Econometric regression analysis - Supply chain mapping\n\n\n\nProject insights and visualizations coming soon\n\n\n\n\nR: tidyverse, ggplot2, haven\nDatabases: Comtrade, World Bank API\nStatistical Methods: Panel regression, difference-in-differences\n\n\n← Back to Projects"
-  },
-  {
-    "objectID": "work.html",
-    "href": "work.html",
-    "title": "jan oledan",
-    "section": "",
-    "text": "about | work | fun\n\nMost of the things I’ve worked on since leaving the safety and structure of school/being thrown into adult life™️\n\n\nGlobal Witness\n\n2024 - now\n\nClimate, environment, forests, finance, supply chains, data journalism\nR Python LLMs Geospatial analysis Data visualization Data analysis QGIS\n\n\n25 nov 2025 Chocolate giants fuel deforestation in West Africa’s last rainforest\n\n\n14 oct 2025 Banks make $26 billion in a decade of financing deforesting companies\n\n\n11 jun 2025 Saving a forest the size of Austria: The first 10 years of the EUDR\n\n\n15 may 2025 Santander backed major South American deforester Cresud despite net zero pledge\n\n\n19 apr 2025 Jaguars vs cows: The biodiversity crisis under JBS’s shadow\n\n\n20 mar 2025 Forest destruction rivalling the size of Liverpool caused by UK imports last year\n\n\n10 dec 2024 Wall Street banks fuel NYC-scale deforestation in Paraguay’s vital forest\n\n\n16 oct 2024 British financiers funnelled over £1 billion into “forest-risk” companies despite COP26 pledges\n\n\n08 oct 2024 The price of beauty: Popular collagen brands drive deforestation and rights abuses in Paraguay\n\n\n08 oct 2024 Barclays earned $1.7bn from company tied to Indigenous land invasion\n\n\n\n\nWorld Bank\n\n2020 - 2024\n\nEconomic development, trade, policy, globalization, research\nR STATA Geospatial analysis Data visualization Data analysis Econometrics Causal inference"
-  },
-  {
-    "objectID": "fun.html",
-    "href": "fun.html",
-    "title": "jan oledan",
-    "section": "",
-    "text": "about | work | fun\n\nfun stuff! data! yay!"
   }
 ]
